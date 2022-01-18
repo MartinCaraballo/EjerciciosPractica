@@ -1,0 +1,3 @@
+/*
+    Modelar una clase que se encargue de devolver si una persona es mayor de edad o no.
+*/
