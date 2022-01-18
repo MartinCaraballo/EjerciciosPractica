@@ -6,7 +6,6 @@ namespace Program
     {
         public static void Main(string[] args)
         {
-            // Request the width to the user.
             Console.WriteLine("Por favor, ingresa el ancho del rectángulo que deseas imprimir en consola: ");
             int widthEntered = Convert.ToInt32(Console.ReadLine());
 
